@@ -17,25 +17,25 @@ It updates live to show:
 <details>
   <summary><strong>Lobby</strong> — Presence shows “In the lobby” and “Waiting for a match...”</summary>
   <br />
-  <img src="docs/assets/lobby.jpeg" alt="Rematch lobby rich presence" width="420" />
+  <img src="assets/lobby.jpeg" alt="Rematch lobby rich presence" width="420" />
 </details>
 
 <details>
   <summary><strong>Goal scored</strong> — Temporary event moment shown when your team scores</summary>
   <br />
-  <img src="docs/assets/goal-scored.gif" alt="Rematch rich presence when a goal is scored" width="420" />
+  <img src="assets/goal-scored.gif" alt="Rematch rich presence when a goal is scored" width="420" />
 </details>
 
 <details>
   <summary><strong>Goal conceded</strong> — Temporary event moment shown when the opponent scores</summary>
   <br />
-  <img src="docs/assets/goal-conceded.gif" alt="Rematch rich presence when a goal is conceded" width="420" />
+  <img src="assets/goal-conceded.gif" alt="Rematch rich presence when a goal is conceded" width="420" />
 </details>
 
 <details>
   <summary><strong>In-match score</strong> — Live match state with score line (Winning / Losing / Drawing)</summary>
   <br />
-  <img src="docs/assets/in-match.jpeg" alt="Rematch in-match rich presence (score state)" width="420" />
+  <img src="assets/in-match.jpeg" alt="Rematch in-match rich presence (score state)" width="420" />
 </details>
 
 ---
